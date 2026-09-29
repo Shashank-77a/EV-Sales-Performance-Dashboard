@@ -3,7 +3,7 @@ An interactive EV Sales Performance Dashboard built to practice data visualizati
 
 This repository contains an Electric Vehicle (EV) sales performance dashboard created as a personal practice project to develop and refine my data visualization and analytics skills in Power BI. 
 
-**Note:** The dataset powering this dashboard (`EV Sales Data.xlsx`) was entirely AI generated to simulate realistic market conditions for practice purposes.
+**Note:** The dataset powering this dashboard was entirely AI generated to simulate realistic market conditions for practice purposes.
 
 ##  Dashboard Overview
 
